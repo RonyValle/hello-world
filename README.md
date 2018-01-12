@@ -1,2 +1,5 @@
 # hello-world
-This is my first project/repository created using GitHub. I'm excited! 
+
+Hello World!
+
+My name is Rony Valle, I love to code, create, manage, and break things. I'm a student at the momment my declared major is Computer Network Engineering. I love everything IT!
